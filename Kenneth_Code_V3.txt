@@ -1,0 +1,5 @@
+
+#To do list
+# How to we get battery as a number??
+# Do we have display shapes?
+# Can we get https://github.com/endail/hx711-rpi-py for tension?
